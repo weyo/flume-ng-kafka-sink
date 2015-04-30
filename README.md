@@ -1,3 +1,8 @@
+#Notes
+This is a custom version of ``` Flume-NG-Kafka-Sink ```(https://github.com/thilinamb/flume-ng-kafka-sink), with the example code modification and some structure changes.
+
+---
+
 #  Flume-NG-Kafka-Sink
 
 This is a [Flume](https://flume.apache.org) Sink implementation that can publish data to a [Kafka](http://kafka.apache.org) topic.
